@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 int main() {
-    print nwifeinfwn
+    printf("Hello, Git!!");
 }
